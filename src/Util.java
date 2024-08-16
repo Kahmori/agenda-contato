@@ -1,5 +1,3 @@
-package ada.tech.agenda.utilitario;
-
 import java.util.Scanner;
 
 public class Util {
@@ -16,5 +14,4 @@ public class Util {
         System.out.println(questao);
         return entrada.nextLine();
     }
-
 }
